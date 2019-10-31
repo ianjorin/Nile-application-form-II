@@ -1,0 +1,47 @@
+
+.header{
+    border-bottom: 3px solid rgb(199, 198, 198);
+}
+
+.title{
+    margin-top:40px;
+    color:white;
+    background: #1e4da1 ;
+    height: 50px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.stud_info{
+    margin-top: 50px;
+    padding-left: 40px;
+    padding-right:40px;
+}
+
+.btn-lg{
+    margin-left: 800px;
+    margin-top: 50px;
+    background-color: chartreuse;
+    width:300px;
+}
+
+.btn-lg:hover{
+    background-color: rgb(49, 90, 7);
+}
+
+legend {
+    padding: 10px;      
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 18px;
+    color: #fff;
+    background-color:#a67e95 ;
+    }
+
+footer{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(53, 52, 52);
+    color:white;
+    height: 50px;
+    margin-top: 30px;
+}
